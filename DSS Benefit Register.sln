@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "DSS Benefit Register", "DSS Benefit Register.rptproj", "{3A4D4BB9-F85C-4C8F-9C82-739942940A11}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A4D4BB9-F85C-4C8F-9C82-739942940A11}.Debug|Default.ActiveCfg = Debug
+		{3A4D4BB9-F85C-4C8F-9C82-739942940A11}.Debug|Default.Build.0 = Debug
+		{3A4D4BB9-F85C-4C8F-9C82-739942940A11}.Debug|Default.Deploy.0 = Debug
+		{3A4D4BB9-F85C-4C8F-9C82-739942940A11}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{3A4D4BB9-F85C-4C8F-9C82-739942940A11}.DebugLocal|Default.Build.0 = DebugLocal
+		{3A4D4BB9-F85C-4C8F-9C82-739942940A11}.DebugLocal|Default.Deploy.0 = DebugLocal
+		{3A4D4BB9-F85C-4C8F-9C82-739942940A11}.Release|Default.ActiveCfg = Release
+		{3A4D4BB9-F85C-4C8F-9C82-739942940A11}.Release|Default.Build.0 = Release
+		{3A4D4BB9-F85C-4C8F-9C82-739942940A11}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
